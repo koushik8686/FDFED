@@ -3,19 +3,24 @@
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background-color: #f0f2f5; /* Example background color */
+  background-color: #90bcd7; /* Example background color */
   padding: 0 16px; /* Add padding to prevent content from touching the edges */
 }
-
+.page{
+  background-color:#4094c7;
+}
 .user-login-box {
   margin: auto;
   width: 100%;
-  max-width: 400px;
-  padding: 16px;
+  max-width: 500px;
+  padding: 80px ;
+  padding-top: 10px;
   border-radius: 8px;
   border: 1px solid #ccc; /* Example border color */
-  background-color: #fff; /* Example card color */
+  background-color: #f1e4e4; /* Example card color */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 .user-login-header {
@@ -32,18 +37,20 @@
 }
 
 .user-login-title {
-  font-size: 24px;
+  font-size: 35px;
   font-weight: bold;
 }
 
 .user-login-subtitle {
   color: #6c757d; /* Example muted foreground color */
+  font-size: 15px;
 }
 
 .user-login-form {
   display: flex;
   flex-direction: column;
   gap: 16px;
+  /* font-size: 24px; */
 }
 
 .user-login-input-group {
@@ -52,7 +59,7 @@
 }
 
 .user-login-label {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -75,7 +82,7 @@
   border-radius: 4px;
   background-color: #007bff; /* Example primary color */
   color: #fff; /* Example primary foreground color */
-  font-size: 14px;
+  font-size: 17px;
   font-weight: bold;
   transition: background-color 0.3s;
 }
@@ -90,7 +97,7 @@
 
 .user-login-footer {
   text-align: center;
-  font-size: 14px;
+  font-size: 17px;
   color: #6c757d; /* Example muted foreground color */
 }
 
