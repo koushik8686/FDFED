@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import ReactDom from "react-dom";
 import Cookies from "js-cookie";
 import './Login.css'
 export default function Component() {
@@ -40,7 +41,7 @@ export default function Component() {
   };
 
   return (
-  <>
+  <div className="page">
     <div className="user-login-container">
       <div className="user-login-box">
         <div className="user-login-header">
@@ -96,6 +97,7 @@ export default function Component() {
         </div>
       </div>
     </div>
-  </>
+    </div>
+ 
   );
 }

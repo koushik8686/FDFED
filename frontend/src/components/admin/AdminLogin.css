@@ -4,7 +4,9 @@
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to right, #ebf8ff, #dbeafe);
+  background: #90bcd7;
+  /* linear-gradient(to right, #ebf8ff, #dbeafe); */
+  
   padding: 1.5rem;
 }
 
@@ -12,10 +14,13 @@
 .admin-login-box {
   width: 100%;
   max-width: 30rem;
-  background-color: white;
-  padding: 2rem;
+  background-color: #f1e4e4;
+  padding: 2%;
+  padding-top: 4%;
   border-radius: 0.5rem;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
 }
 
 .text-center {
@@ -32,8 +37,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 2.5rem;
-  width: 2.5rem;
+  height: 3.5rem;
+  width: 3.5rem;
   background-color: #3b82f6;
   border-radius: 50%;
 }
@@ -45,19 +50,20 @@
 }
 
 .admin-login-title {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 800;
   color: #1f2937;
 }
 
 .admin-login-subtitle {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
   color: #6b7280;
 }
 
 /* Form styling */
 .admin-login-form {
   margin-top: 1.5rem;
+  /* font-size: 1.5rem; */
 }
 
 .admin-login-form-group {
@@ -67,7 +73,7 @@
 }
 
 .admin-login-label {
-  font-size: 0.875rem;
+  font-size: 1.5rem;
   color: #374151;
 }
 
@@ -94,6 +100,7 @@
   color: white;
   font-weight: 600;
   text-align: center;
+  font-size: 1.5rem;
   border-radius: 0.375rem;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   cursor: pointer;
@@ -114,13 +121,13 @@
   color: #ef4444;
   text-align: center;
   margin-top: 0.75rem;
-  font-size: 0.875rem;
+  font-size: 1.2rem;
 }
 
 /* Footer link */
 .admin-login-footer {
   margin-top: 1rem;
-  font-size: 0.875rem;
+  font-size: 1.2rem;
   color: #6b7280;
   text-align: center;
 }

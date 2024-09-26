@@ -1,0 +1,121 @@
+[33mcommit 99203d70cdc9a2453f4eb92f0459cf81d5146456[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpraneeth[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m)[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Sun Sep 22 21:20:40 2024 +0530
+
+    added new email
+
+[33mcommit d953f624c1b255634534d59982fe5261bbc8373a[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Sun Sep 22 16:56:39 2024 +0530
+
+    A
+
+[33mcommit 9e11840e26ba4f23f9635e518c9dfc00fece77e8[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Sun Sep 22 14:47:39 2024 +0530
+
+    a
+
+[33mcommit 90c70c5ae7870e7b2412da818e6cec04c27ed126[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Sun Sep 22 00:05:19 2024 +0530
+
+    added admin
+
+[33mcommit 3dd32e10f3f6be07d062b29743f55d22f1f26e0c[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Fri Sep 20 11:54:29 2024 +0530
+
+    added admin login
+
+[33mcommit b1f7cb52f142b8a29dcb374f6789e8860638b846[m
+Merge: 9c77cba db14bd8
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Fri Sep 20 09:51:20 2024 +0530
+
+    Merge branch 'main' of https://github.com/koushik8686/FDFED
+
+[33mcommit 9c77cba93e1ebbaf70a45ceed94b587f147b4daf[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Fri Sep 20 09:51:17 2024 +0530
+
+    added admin login
+
+[33mcommit db14bd813045a57305e7fa1964ba1ba8d216456f[m
+Author: navadeep15 <navadeepchv@gmail.com>
+Date:   Fri Sep 20 09:50:25 2024 +0530
+
+    added hi in line 40
+
+[33mcommit e5bd26a4ab59d89f22b56ceac453e665238b5ebe[m
+Merge: d89602a 2005039
+Author: navadeep15 <navadeepchv@gmail.com>
+Date:   Fri Sep 20 09:48:00 2024 +0530
+
+    d
+
+[33mcommit d89602a29fb26f3d6887299657b9e3e835b4da30[m
+Author: navadeep15 <navadeepchv@gmail.com>
+Date:   Fri Sep 20 09:46:54 2024 +0530
+
+    d
+
+[33mcommit 2005039ddb1fd34735f021570b25d15cc1720d53[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Fri Sep 20 09:31:56 2024 +0530
+
+    added admin login
+
+[33mcommit e80b880cb692211dde50e60931e0dffe6dc5afac[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Fri Sep 20 09:31:04 2024 +0530
+
+    added admin login
+
+[33mcommit 8e19d7725dd5abbca13bed2e176e58c32739c2b9[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Thu Sep 19 12:28:41 2024 +0530
+
+    a
+
+[33mcommit f409d00f549a7cd0fce4e9a0d8f0a75938f95df0[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Thu Sep 19 12:24:13 2024 +0530
+
+    e
+
+[33mcommit 22e2c4055ec636544c35f223ec7a443762ba878d[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Thu Sep 19 12:23:02 2024 +0530
+
+    e
+
+[33mcommit 5c464ea3b5e997fe08a69c6e79910a75fa0678c5[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Thu Sep 19 00:56:33 2024 +0530
+
+    e
+
+[33mcommit f9d58452d5fccace8c33e51bdad7b247dacbc668[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Thu Sep 19 00:32:11 2024 +0530
+
+    qwe
+
+[33mcommit 57c57feb2768089d81e6f30ef691e493c0e41463[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Wed Sep 18 14:46:17 2024 +0530
+
+    jf
+
+[33mcommit 0c38e2e556a8bdcde490cb9dcb56f651773a2e16[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Tue Aug 20 14:09:56 2024 +0530
+
+    first
+
+[33mcommit 660dd6a78cf2b11a156e8be5444153b803855184[m
+Author: KOUSHIK PINNU <pinnukoushikp@gmail.com>
+Date:   Tue Aug 6 09:44:48 2024 +0530
+
+    Initialize project using Create React App
