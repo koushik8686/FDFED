@@ -16,6 +16,7 @@ import VerifySellerEmail from './components/seller/Verifyseller';
 import SellerSoldItems from './components/seller/solditems';
 import TimeFrame from './components/admin/TimeFrame';
 
+//app.js
 function App() {
   return (
     <BrowserRouter>
